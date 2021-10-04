@@ -1,0 +1,1 @@
+To run the test enter jest in the terminal
